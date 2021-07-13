@@ -69,7 +69,7 @@
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>webjars-locator-core</artifactId>
-			<version>0.32</version>
+			<version>0.47</version>
 		</dependency>
 		<dependency>
 			<groupId>org.sonatype.plexus</groupId>
